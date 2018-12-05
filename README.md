@@ -3,7 +3,7 @@ For generating teams based off of people and their rank.
 
 Takes a list of players with a skill rank (1-10 or whatever) and attempts to generate evenly balanced 2 player teams.
 
-For example:
+For example:  
 Mary 10  
 Jane 8  
 Bob 2  
